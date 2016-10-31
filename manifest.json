@@ -1,0 +1,19 @@
+{
+  "name": "reflection",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Get the Bible Verse of the Day deliveried on each new tab.",
+  "author": "Justin Licata",
+  "chrome_url_overrides" : {
+    "newtab": "src/newTab.html"
+  },
+  "permissions": [
+    "topSites",
+    "storage",
+    "chrome://favicon/",
+    "https://labs.bible.org/api/"
+  ],
+  "web_accessible_resources": [
+    "src/templates/notFound.html"
+  ]
+}
