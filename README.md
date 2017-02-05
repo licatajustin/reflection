@@ -13,6 +13,8 @@ Reflection is a Chrome extension that uses the New Tab feature to present
 you with the Bible Verse of the Day. It also keeps some of the original New
 Tab functionality with the addition of a Top Sites section.
 
+[Download from the Chrome Web Store](https://chrome.google.com/webstore/detail/reflection/akkfelbjciponnhjnncgjekoabfffkgp?hl=en-US)
+
 -
 
 **Matthew 6:33**
